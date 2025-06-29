@@ -155,6 +155,3 @@ publications:
     journal: Cleaner Engineering and Technology, Elsevier
     date: '2024'
     url: https://doi.org/10.1016/j.clet.2025.100886
----
-
-I am a Research Assistant at Khulna University of Engineering & Technology (KUET) with expertise in structural engineering, materials science, and machine learning applications in construction materials. My research focuses on developing high-performance concrete using advanced materials like graphene and hybrid fibers, combined with machine learning techniques for performance prediction and optimization. I have published multiple papers in Elsevier journals and presented at international conferences. My technical skills span structural analysis software, BIM tools, and programming languages for data analysis and machine learning.
