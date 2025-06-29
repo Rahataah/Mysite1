@@ -26,7 +26,7 @@ organizations:
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:rahataayaz@gmail.com'
+    url: mailto:rahataayaz@gmail.com
     label: E-mail Me
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=qqBA5UMAAAAJ&hl=en
