@@ -14,12 +14,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Assistant
+role: Research Assistant | Structural & Materials Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Khulna University of Engineering & Technology (KUET)
     url: https://www.kuet.ac.bd/
+  - name: Institute of Engineers, Bangladesh (IEB)
+    url: https://www.iebbd.org/
 
 # Social network links
 profiles:
@@ -28,106 +30,131 @@ profiles:
     label: E-mail Me
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=qqBA5UMAAAAJ&hl=en
-    label: Google Scholar
   - icon: brands/github
     url: https://github.com/Rahataah
-    label: GitHub
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/rahat-aayaz-1b1a7b20a/
-    label: LinkedIn
   - icon: brands/orcid
-    url: https://orcid.org/0009-0009-9641-8033
-    label: ORCID
+    url: https://orcid.org/0009-0009-9641-8033/
 
 education:
   - area: Bachelor of Science in Engineering
     institution: Khulna University of Engineering & Technology
-    date_start: 2018-12-01
-    date_end: 2024-03-31
+    date_start: '2018-12-01'
+    date_end: '2024-03-01'
     summary: |
-      [cite_start]Department: Building Engineering and Construction Management [cite: 5]
-      [cite_start]Major: Structural & Materials Engineering [cite: 5]
-      [cite_start]CGPA: 3.14/4.00 [cite: 5]
+      Department: Building Engineering and Construction Management  
+      Major: Structural & Materials Engineering  
+      CGPA: 3.14/4.00 (Weighted Average Mark: 66.8%)
   - area: Higher Secondary Certificate (HSC)
     institution: Birshreshtha Noor Mohammad Public College
-    date_start: 2016-03-01
-    date_end: 2018-04-30
-    [cite_start]summary: 'Field of study: Science [cite: 5]'
+    date_start: '2016-03-01'
+    date_end: '2018-04-01'
+    summary: Field of study: Science
   - area: Secondary School Certificate (SSC)
-    institution: Faizur Rahman Ideal Institute
-    date_start: 2006-01-01
-    date_end: 2016-02-29
-    [cite_start]summary: 'Field of study: Science [cite: 5]'
+    institution: Fairur Rahman Ideal Institute
+    date_start: '2006-01-01'
+    date_end: '2016-02-01'
+    summary: Field of study: Science
 
 work:
-  - position: Research Assistantship
-    company_name: Khulna University of Engineering & Technology (KUET)
-    company_url: 'https://www.kuet.ac.bd/'
-    date_start: 2024-03-01
+  - position: Research Assistant
+    company_name: Department of Building Engineering and Construction Management, KUET
+    company_url: https://www.kuet.ac.bd/
+    date_start: '2024-03-01'
     date_end: ''
     summary: |
-      [cite_start]Department of Building Engineering and Construction Management. [cite: 3]
-      [cite_start]Responsibilities: Research Article Drafting and Analysis, Lab Instruction, Machine Learning Analysis, Structural Designing. [cite: 3]
-  - position: Undergraduate Thesis
-    company_name: Khulna University of Engineering & Technology (KUET)
-    company_url: 'https://www.kuet.ac.bd/'
-    date_start: 2023-01-01
-    date_end: 2024-02-28
-    [cite_start]summary: 'Thesis Title: Enhancing High-Strength Concrete Incorporating Graphene and Hybrid Fibers: A Multi-Layered Laboratory Experiments and Machine Learning Analysis [cite: 3]'
+      Responsibilities include:
+      - Research Article Drafting and Analysis
+      - Lab Instruction
+      - Machine Learning Analysis
+      - Structural Designing
 
+# Skills
 skills:
   - name: Technical Skills
     items:
-      - name: Structural Analysis (ETABS, Robot, STAAD.Pro)
-        description: ''
-        percent: 0
-      - name: Finite Element Analysis (ANSYS, Abaqus)
-        description: ''
-        percent: 0
-      - name: CAD & BIM (AutoCAD, Revit, Navisworks)
-        description: ''
-        percent: 0
-      - name: Programming (Python, C++, MATLAB)
-        description: ''
-        percent: 0
-      - name: Architectural Visualization (Lumion, Twin Motion)
-        description: ''
-        percent: 0
+      - name: Structural Analysis & Design
+        description: ETABS, Autodesk Robot, STAAD.Pro
+        percent: 90
+        icon: building
+      - name: Machine Learning
+        description: Python, TensorFlow, PyTorch
+        percent: 85
+        icon: microchip
+      - name: BIM & CAD
+        description: Revit, AutoCAD, SketchUp
+        percent: 80
+        icon: draft
+  - name: Programming
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Python
+        percent: 85
+        icon: devicon/python
+      - name: C++
+        percent: 70
+        icon: devicon/cplusplus
+      - name: MATLAB
+        percent: 75
+        icon: calculator
 
 languages:
+  - name: English
+    percent: 85
+    description: IELTS Overall 7.0
   - name: Bangla
     percent: 100
-  - name: English
-    percent: 90
+    description: Native Language
 
+# Awards and Certifications
 awards:
   - title: Unsupervised Learning, Recommenders, Reinforcement Learning
+    url: https://www.coursera.org/
     date: '2024-10-01'
-    awarder: Coursera (offered by Stanford University)
+    awarder: Coursera (Stanford University)
     icon: coursera
-    [cite_start]summary: 'Skills: Unsupervised learning techniques (K-Means, PCA, Hierarchical Clustering), Recommender systems (Collaborative Filtering, Matrix Factorization), Reinforcement learning (Q-learning, MDPs). [cite: 33]'
+    summary: Skills in unsupervised learning techniques, recommender systems, and reinforcement learning
   - title: Advanced Learning Algorithms
+    url: https://www.coursera.org/
     date: '2024-08-01'
-    awarder: Coursera (offered by Stanford University)
+    awarder: Coursera (Stanford University)
     icon: coursera
-    [cite_start]summary: 'Skills: Deep learning architectures (CNNS, RNNS, LSTMs), Advanced optimization techniques, Unsupervised learning (GMMs, PCA), TensorFlow/PyTorch implementation. [cite: 35]'
-  - title: Supervised Machine Learning - Regression and Classification
+    summary: Deep learning architectures and advanced optimization techniques
+  - title: Supervised Machine Learning: Regression and Classification
+    url: https://www.coursera.org/
     date: '2024-06-01'
-    awarder: Coursera (offered by Stanford University)
+    awarder: Coursera (Stanford University)
     icon: coursera
-    [cite_start]summary: 'Skills: Linear and logistic regression, classification algorithms, model training and evaluation, bias-variance tradeoff, feature engineering, regularization techniques (L1, L2), and Python programming for ML. [cite: 36]'
+    summary: Linear/logistic regression, classification algorithms, model evaluation
   - title: Technical Support Fundamentals
+    url: https://www.coursera.org/
     date: '2024-01-01'
-    awarder: Coursera (offered by Google)
+    awarder: Coursera (Google)
     icon: coursera
-    [cite_start]summary: 'Skills: Troubleshooting and Problem Solving, Operating System Basics, Networking Fundamentals, Command Line Interface (CLI) Proficiency. [cite: 37]'
+    summary: Troubleshooting, OS Basics, Networking, CLI Proficiency
   - title: Financial Markets
+    url: https://www.coursera.org/
     date: '2020-10-01'
-    awarder: Coursera (offered by Yale University)
+    awarder: Coursera (Yale University)
     icon: coursera
-    [cite_start]summary: 'Skills: Understanding Financial Markets and Instruments, Risk Management and Behavioral Finance, Investment Strategies and Portfolio Management, Market Regulation, Historical Financial Crises. [cite: 38]'
+    summary: Understanding financial markets, risk management, investment strategies
+
+# Publications
+publications:
+  - title: Experimental and Microstructural Assessment of Hybrid Fiber Reinforced Graphene Nano-Engineered Concretes
+    journal: Journal of Materials Research and Technology, Elsevier
+    date: '2024'
+    url: https://doi.org/10.1016/j.jmrt.2025.03.003
+  - title: Combined Influence of Modified Recycled Concrete Aggregate and Metakaolin on High-Strength Concrete Production
+    journal: Construction & Building Materials, Elsevier
+    date: '2024'
+    url: https://doi.org/10.1016/j.conbuildmat.2025.139897
+  - title: Assessing the Engineering Properties and Environmental Impact with Explainable Machine Learning analysis of Sustainable Concrete Utilizing Waste Banana Leaf Ash
+    journal: Cleaner Engineering and Technology, Elsevier
+    date: '2024'
+    url: https://doi.org/10.1016/j.clet.2025.100886
 ---
 
-[cite_start]I am a Research Assistant at the Department of Building Engineering and Construction Management at Khulna University of Engineering & Technology (KUET)[cite: 3]. [cite_start]My research focuses on sustainable and high-performance construction materials, including the development of high-strength concrete using graphene and hybrid fibers[cite: 3, 8]. [cite_start]I specialize in applying machine learning techniques to predict and optimize the properties of concrete, utilizing SHAP and PDP analysis for advanced model interpretation[cite: 10, 14, 15, 21].
-
-[cite_start]I have authored and co-authored several research articles in peer-reviewed journals, including Elsevier's *Journal of Materials Research and Technology* [cite: 8][cite_start], *Construction & Building Materials* [cite: 11][cite_start], and *Cleaner Engineering and Technology*[cite: 13]. [cite_start]Additionally, I have presented my research at international conferences such as ICCESD 2024[cite: 18].
+I am a Research Assistant at Khulna University of Engineering & Technology (KUET) with expertise in structural engineering, materials science, and machine learning applications in construction materials. My research focuses on developing high-performance concrete using advanced materials like graphene and hybrid fibers, combined with machine learning techniques for performance prediction and optimization. I have published multiple papers in Elsevier journals and presented at international conferences. My technical skills span structural analysis software, BIM tools, and programming languages for data analysis and machine learning.
