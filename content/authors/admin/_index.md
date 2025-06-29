@@ -6,8 +6,8 @@ title: 吳健雄
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Rahat
+last_name: Aayaz
 
 # Status emoji
 status:
@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: KUET
+    url: https://www.kuet.ac.bd/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -30,14 +30,14 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?user=qqBA5UMAAAAJ&hl=en
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Rahataah
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/rahat-aayaz-1b1a7b20a/
+  - icon: brands/orcid
+    url: https://orcid.org/0009-0009-9641-8033/
 
 education:
   - area: PhD Artificial Intelligence
