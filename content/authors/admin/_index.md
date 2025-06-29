@@ -155,53 +155,6 @@ awards:
     summary: |
       Learned financial markets and instruments, risk management, behavioral finance, investment strategies, portfolio management, market regulation, and historical financial crises.
 
-# Publications
-publications:
-  - title: Experimental and Microstructural Assessment of Hybrid Fiber Reinforced Graphene Nano-Engineered Concretes
-    journal: Journal of Materials Research and Technology, Elsevier
-    date: '2024'
-    authors: Md. Habibur Rahman Sobuz, Rahat Aayaz, SM Arifur Rahman, Faiz Uddin Ahmed Shaikh, Md. Kawsarul Islam Kabbo
-    url: https://doi.org/10.1016/j.jmrt.2025.03.003
-  - title: Combined Influence of Modified Recycled Concrete Aggregate and Metakaolin on High-Strength Concrete Production
-    journal: Construction & Building Materials, Elsevier
-    date: '2024'
-    authors: Md. Habibur Rahman Sobuz, Md. Mushfiqur Rahman, Rahat Aayaz, Wael S. Al-Rashed, Shuvo Dip Datta, Md. Abu間に
-
-System: Abu Safayet, Md. Kawsarul Islam Kabbo
-    url: https://doi.org/10.1016/j.conbuildmat.2025.139897
-  - title: Assessing the Engineering Properties and Environmental Impact with Explainable Machine Learning Analysis of Sustainable Concrete
-    journal: Cleaner Engineering and Technology, Elsevier
-    date: '2024'
-    authors: Asif Mahmud Momshad, Md. Hamidul Islam, Md. Habibur Rahman Sobuz, Shuvo Dip Datta, Rahat Aayaz, Md. Kawsarul Islam Kabbo, Md. Munir Hayet Khan
-    url: https://doi.org/10.1016/j.clet.2025.100886
-  - title: Application of Genetic Machine Learning for Predicting, Quantifying, and Optimizing the Strength of Fiber-Reinforced Concrete
-    journal: Submitted to Streamlit.app
-    date: ''
-    authors: Rahat Aayaz, Israt Jahan
-  - title: A Novel Hybrid Machine Learning Based Prediction of Compressive Strength of Natural Fiber Recycled Aggregate Concrete
-    journal: In Progress
-    date: ''
-    authors: Rahat Aayaz, Md. Habibur Rahman Sobuz, Md. Kawsarul Islam Kabbo, Muhammad Izzat Nor Ma'arof, Walid Mansour, SM Arifur Rahman, Aanika Roshni, Jannat Ara Jabin, Md. Munir Hayet Khan, Israt Jahan, Abu Sayed Mohammad Akid
-
-# Conference Proceedings
-conferences:
-  - title: Compressive Strength Prediction of High-Strength Graphene Reinforced Concrete using Machine Learning
-    event: 7th International Conference on Civil Engineering for Sustainable Development (ICCESD 2024)
-    date: '2024-02-07'
-    authors: Rahat Aayaz, Md. Habibur Rahman Sobuz, Sumaiya Mifra Akhter, Jannat Ara Jabin
-  - title: Optimizing Small Spaces: A Comprehensive Study on Interior Design Challenges, Perceptual Experiences, and Innovative Solutions
-    event: 7th International Conference on Civil Engineering for Sustainable Development (ICCESD 2024)
-    date: '2024-02-07'
-    authors: Israt Jahan, Md. Shahriar Hossain, Rahat Aayaz
-  - title: Machine Learning Techniques to Predict Performance of Fiber-Infused Self-Compacting Concrete with SHAP & PDP Analysis
-    event: 7th International Conference on Advances in Civil Engineering (ICACE 2024)
-    date: '2024-12-12'
-    authors: Md Al Toufiq Billah, Ayan Saha, Rahat Aayaz
-  - title: An Investigation for Detecting Plastic Waste Using Automated River Mapping with Unmanned Aerial Vehicles (UAVs) and Deep Learning Algorithms in Buriganga River
-    event: 9th International Conference on Sustainable Solutions for Waste Management in Developing Countries (WasteSafe 2025)
-    date: '2025-02-22'
-    authors: Aanika Roshni, Rahat Aayaz
-    status: Under Review
 
 # Projects
 projects:
