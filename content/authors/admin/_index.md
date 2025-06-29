@@ -117,41 +117,41 @@ awards:
 # Publications
 publications:
   - title: "Experimental and Microstructural Assessment of Hybrid Fiber Reinforced Graphene Nano-Engineered Concretes"
-    authors: Md. Habibur Rahman Sobuz, Rahat Aayaz, et al.
-    venue: Journal of Materials Research and Technology, Elsevier, 2024
-    url: https://doi.org/10.1016/j.jmrt.2025.03.003
+    authors: "Md. Habibur Rahman Sobuz, Rahat Aayaz, et al."
+    venue: "Journal of Materials Research and Technology, Elsevier, 2024"
+    url: "https://doi.org/10.1016/j.jmrt.2025.03.003"
 
   - title: "Combined Influence of Modified RCA and Metakaolin on High-Strength Concrete: ML with SHAP and PDP"
-    authors: Md. Habibur Rahman Sobuz, Rahat Aayaz, et al.
-    venue: Construction & Building Materials, Elsevier, 2024
-    url: https://doi.org/10.1016/j.conbuildmat.2025.139897
+    authors: "Md. Habibur Rahman Sobuz, Rahat Aayaz, et al."
+    venue: "Construction & Building Materials, Elsevier, 2024"
+    url: "https://doi.org/10.1016/j.conbuildmat.2025.139897"
 
   - title: "Engineering Properties and Environmental Impact of Banana Leaf Ash Concrete: ML Analysis"
-    authors: Asif M. Momshad, Rahat Aayaz, et al.
-    venue: Cleaner Engineering and Technology, Elsevier, 2024
-    url: https://doi.org/10.1016/j.clet.2025.100886
+    authors: "Asif M. Momshad, Rahat Aayaz, et al."
+    venue: "Cleaner Engineering and Technology, Elsevier, 2024"
+    url: "https://doi.org/10.1016/j.clet.2025.100886"
 
   - title: "Genetic Machine Learning for Predicting and Optimizing Fiber-Reinforced Concrete"
-    authors: Rahat Aayaz, Israt Jahan
-    venue: Streamlit App (Preprint)
-    url: https://fiber-reinforced-concrete-mix-optimizer.streamlit.app/
+    authors: "Rahat Aayaz, Israt Jahan"
+    venue: "Streamlit App (Preprint)"
+    url: "https://fiber-reinforced-concrete-mix-optimizer.streamlit.app/"
 
   - title: "Compressive Strength Prediction of High-Strength Graphene Concrete using ML"
-    authors: Rahat Aayaz, Md. Habibur Rahman Sobuz, et al.
-    venue: 7th International Conference on Civil Engineering for Sustainable Development (ICCESD), 2024
+    authors: "Rahat Aayaz, Md. Habibur Rahman Sobuz, et al."
+    venue: "7th International Conference on Civil Engineering for Sustainable Development (ICCESD), 2024"
 
   - title: "Optimizing Small Spaces: Interior Design Challenges and Perceptual Experiences"
-    authors: Israt Jahan, Md. Shahriar Hossain, Rahat Aayaz
-    venue: ICCESD 2024
+    authors: "Israt Jahan, Md. Shahriar Hossain, Rahat Aayaz"
+    venue: "ICCESD 2024"
 
   - title: "ML Techniques for Predicting Fiber-Infused SCC Performance with SHAP & PDP"
-    authors: Md Al Toufiq Billah, Ayan Saha, Rahat Aayaz
-    venue: ICACE 2024
+    authors: "Md Al Toufiq Billah, Ayan Saha, Rahat Aayaz"
+    venue: "ICACE 2024"
 
   - title: "Detecting Plastic Waste in Buriganga River using UAV and Deep Learning"
-    authors: Aanika Roshni, Rahat Aayaz
-    venue: WasteSafe 2025 (Under Review)
-
+    authors: "Aanika Roshni, Rahat Aayaz"
+    venue: "WasteSafe 2025 (Under Review)"
+    
 # Languages
 languages:
   - name: English
