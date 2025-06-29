@@ -1,16 +1,3 @@
-Based on the Netlify build log you provided, the website build failed due to a YAML parsing error in the `_index.md` file.
-
-### **Analysis of the Error**
-
-The error message `failed to unmarshal YAML: yaml: line 15: did not find expected key` points to a syntax problem in the file's front matter. While the error is reported at line 15, the actual cause is often an incorrect data structure earlier in the file that misleads the YAML parser.
-
-The specific issue was that the `languages` information was incorrectly nested within the `skills` section. The website theme expects `languages` to be a distinct, top-level category, at the same level as `education`, `work`, and `skills`.
-
-### **Corrected `_index.md` File**
-
-Here is the corrected version of the `_index.md` file. It has been updated with the information from your CV and the YAML structure has been fixed to resolve the build error.
-
-```markdown
 ---
 # Display name
 title: Rahat Aayaz
@@ -144,4 +131,3 @@ awards:
 [cite_start]I am a Research Assistant at the Department of Building Engineering and Construction Management at Khulna University of Engineering & Technology (KUET)[cite: 3]. [cite_start]My research focuses on sustainable and high-performance construction materials, including the development of high-strength concrete using graphene and hybrid fibers[cite: 3, 8]. [cite_start]I specialize in applying machine learning techniques to predict and optimize the properties of concrete, utilizing SHAP and PDP analysis for advanced model interpretation[cite: 10, 14, 15, 21].
 
 [cite_start]I have authored and co-authored several research articles in peer-reviewed journals, including Elsevier's *Journal of Materials Research and Technology* [cite: 8][cite_start], *Construction & Building Materials* [cite: 11][cite_start], and *Cleaner Engineering and Technology*[cite: 13]. [cite_start]Additionally, I have presented my research at international conferences such as ICCESD 2024[cite: 18].
-```
