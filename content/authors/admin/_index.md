@@ -16,7 +16,7 @@ superuser: true
 # Role/position/tagline
 role: Research Assistant
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
   - name: Khulna University of Engineering & Technology (KUET)
     url: https://www.kuet.ac.bd/
@@ -155,21 +155,43 @@ awards:
     summary: |
       Learned financial markets and instruments, risk management, behavioral finance, investment strategies, portfolio management, market regulation, and historical financial crises.
 
+# Publications
+publications:
+  - title: Experimental and Microstructural Assessment of Hybrid Fiber Reinforced Graphene Nano-Engineered Concretes
+    journal: Journal of Materials Research and Technology, Elsevier
+    date: '2024'
+    authors: Md. Habibur Rahman Sobuz, Rahat Aayaz, SM Arifur Rahman, Faiz Uddin Ahmed Shaikh, Md. Kawsarul Islam Kabbo
+    url: https://doi.org/10.1016/j.jmrt.2025.03.003
+  - title: Combined Influence of Modified Recycled Concrete Aggregate and Metakaolin on High-Strength Concrete Production
+    journal: Construction & Building Materials, Elsevier
+    date: '2024'
+    authors: Md. Habibur Rahman Sobuz, Md. Mushfiqur Rahman, Rahat Aayaz, Wael S. Al-Rashed, Shuvo Dip Datta, Md. Abu Safayet, Md. Kawsarul Islam Kabbo
+    url: https://doi.org/10.1016/j.conbuildmat.2025.139897
+  - title: Assessing the Engineering Properties and Environmental Impact with Explainable Machine Learning Analysis of Sustainable Concrete
+    journal: Cleaner Engineering and Technology, Elsevier
+    date: '2024'
+    authors: Asif Mahmud Momshad, Md. Hamidul Islam, Md. Habibur Rahman Sobuz, Shuvo Dip Datta, Rahat Aayaz, Md. Kawsarul Islam Kabbo, Md. Munir Hayet Khan
+    url: https://doi.org/10.1016/j.clet.2025.100886
+  - title: Application of Genetic Machine Learning for Predicting, Quantifying, and Optimizing the Strength of Fiber-Reinforced Concrete
+    journal: Submitted to Streamlit.app
+    date: ''
+    authors: Rahat Aayaz, Israt Jahan
+  - title: A Novel Hybrid Machine Learning Based Prediction of Compressive Strength of Natural Fiber Recycled Aggregate Concrete
+    journal: In Progress
+    date: ''
+    authors: Rahat Aayaz, Md. Habibur Rahman Собuz, Md. Kawsarul Islam Kabbo, Muhammad Izzat Nor Ma'arof, Walid Mansour, SM Arifur Rahman, Aanika Roshni, Jannat Ara Jabin, Md. Munir Hayet Khan, Israt Jahan, Abu Sayed Mohammad Akid
 
-# Projects
-projects:
-  - title: Hybrid Machine Learning Prediction of Concrete Properties
-    description: |
-      Codes for hybrid machine learning model development to predict Natural Fiber Recycled Aggregate Concrete (NFRAC) compressive strength, incorporating SHAP and PDP analysis for model interpretation and optimized mix design.
-    url: https://github.com/Rahataah
-  - title: Natural Fiber-Recycled Aggregate Concrete Dataset
-    description: |
-      Dataset contribution to Mendeley Data, V1.
-    url: https://doi.org/10.17632/7chtgrwkv3.1
-  - title: Recycled Aggregate-Metakaolin Enhanced Concrete Dataset
-    description: |
-      Compressive Strength Dataset contribution to Mendeley Data, V1.
-    url: https://doi.org/10.17632/zs42wxbvyf.2
----
-
-I am currently a Research Assistant at the Department of Building Engineering and Construction Management at Khulna University of Engineering & Technology, where I focus on research article drafting, lab instruction, machine learning analysis, and structural designing.
+# Conference Proceedings
+conferences:
+  - title: Compressive Strength Prediction of High-Strength Graphene Reinforced Concrete using Machine Learning
+    event: 7th International Conference on Civil Engineering for Sustainable Development (ICCESD 2024)
+    date: '2024-02-07'
+    authors: Rahat Aayaz, Md. Habibur Rahman Sobuz, Sumaiya Mifra Akhter, Jannat Ara Jabin
+  - title: Optimizing Small Spaces: A Comprehensive Study on Interior Design Challenges, Perceptual Experiences, and Innovative Solutions
+    event: 7th International Conference on Civil Engineering for Sustainable Development (ICCESD 2024)
+    date: '2024-02-07'
+    authors: Israt Jahan, Md. Shahriar Hossain, Rahat Aayaz
+  - title: Machine Learning Techniques to Predict Performance of Fiber-Infused Self-Compacting Concrete with SHAP & PDP Analysis
+    event: 7th International Conference on Advances in Civil Engineering (ICACE 2024)
+    date: '2024-12-12'
+    authors: Md Al Toufiq Billah, Ayan Saha, Rah
