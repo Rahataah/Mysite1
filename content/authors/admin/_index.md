@@ -2,28 +2,26 @@
 # Display name
 title: Rahat Aayaz
 
-
 # Full name (for SEO)
 first_name: Rahat
 last_name: Aayaz
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🏗️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Student
+role: Engineer & Researcher in Sustainable Construction and AI
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: KUET
+  - name: Khulna University of Engineering & Technology (KUET)
     url: https://www.kuet.ac.bd/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:rahataayaz@gmail.com'
@@ -37,134 +35,131 @@ profiles:
   - icon: brands/orcid
     url: https://orcid.org/0009-0009-9641-8033/
 
+# Education
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.Sc. in Engineering (Structural & Materials)
+    institution: Khulna University of Engineering & Technology (KUET)
+    date_start: 2018-12-01
+    date_end: 2024-03-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Graduated with a CGPA of 3.14/4.00. Undergraduate thesis focused on hybrid fiber-reinforced graphene concrete, integrating machine learning and multi-layered lab experiments.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# Work experience
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: Research Assistant
+    company_name: Department of Building Engineering and Construction Management, KUET
+    date_start: 2024-03-01
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Assisted in drafting peer-reviewed articles and data interpretation.
+      - Conducted machine learning analysis and structural design.
+      - Provided lab instruction to undergraduate students.
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
         percent: 80
         icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
+      - name: ETABS, SAFE, Robot, STAAD
+        percent: 85
+      - name: AutoCAD, Revit, SketchUp
+        percent: 90
+      - name: ANSYS, Abaqus
+        percent: 70
+      - name: MATLAB
+        percent: 75
+      - name: Machine Learning (ML)
         percent: 80
-        icon: camera
+      - name: BIM & Visualization (Navisworks, Lumion, TwinMotion)
+        percent: 85
+  - name: Languages
+    items:
+      - name: Bangla (Native)
+        percent: 100
+      - name: English
+        percent: 95
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards / Certifications
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+  - title: Supervised Machine Learning: Regression and Classification
+    url: https://www.coursera.org/learn/machine-learning
+    date: 2024-06-01
+    awarder: Stanford University (via Coursera)
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Mastered classification, regression, bias-variance tradeoff, model training, and L1/L2 regularization.
+
+  - title: Advanced Learning Algorithms
+    url: https://www.coursera.org/learn/advanced-learning-algorithms
+    date: 2024-08-01
+    awarder: Stanford University (via Coursera)
+    icon: coursera
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Gained hands-on experience with CNNs, RNNs, LSTMs, GMMs, and TensorFlow implementations.
+
+  - title: Unsupervised Learning, Recommenders, Reinforcement Learning
+    url: https://www.coursera.org/learn/unsupervised-learning-reinforcement-learning
+    date: 2024-10-01
+    awarder: Stanford University (via Coursera)
+    icon: coursera
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Covered clustering, PCA, recommender systems, Q-learning, and Markov decision processes.
+
+  - title: Technical Support Fundamentals
+    url: https://www.coursera.org/learn/technical-support-fundamentals
+    date: 2024-01-01
+    awarder: Google (via Coursera)
+    icon: coursera
+    summary: |
+      Introduction to networking, OS basics, and troubleshooting using CLI tools.
+
+# Publications
+publications:
+  - title: "Experimental and Microstructural Assessment of Hybrid Fiber Reinforced Graphene Nano-Engineered Concretes"
+    authors: Md. Habibur Rahman Sobuz, Rahat Aayaz, et al.
+    venue: Journal of Materials Research and Technology, Elsevier, 2024
+    url: https://doi.org/10.1016/j.jmrt.2025.03.003
+
+  - title: "Combined Influence of Modified RCA and Metakaolin on High-Strength Concrete: ML with SHAP and PDP"
+    authors: Md. Habibur Rahman Sobuz, Rahat Aayaz, et al.
+    venue: Construction & Building Materials, Elsevier, 2024
+    url: https://doi.org/10.1016/j.conbuildmat.2025.139897
+
+  - title: "Engineering Properties and Environmental Impact of Banana Leaf Ash Concrete: ML Analysis"
+    authors: Asif M. Momshad, Rahat Aayaz, et al.
+    venue: Cleaner Engineering and Technology, Elsevier, 2024
+    url: https://doi.org/10.1016/j.clet.2025.100886
+
+  - title: "Genetic Machine Learning for Predicting and Optimizing Fiber-Reinforced Concrete"
+    authors: Rahat Aayaz, Israt Jahan
+    venue: Streamlit App (Preprint)
+    url: https://fiber-reinforced-concrete-mix-optimizer.streamlit.app/
+
+  - title: "Compressive Strength Prediction of High-Strength Graphene Concrete using ML"
+    authors: Rahat Aayaz, Md. Habibur Rahman Sobuz, et al.
+    venue: 7th International Conference on Civil Engineering for Sustainable Development (ICCESD), 2024
+
+  - title: "Optimizing Small Spaces: Interior Design Challenges and Perceptual Experiences"
+    authors: Israt Jahan, Md. Shahriar Hossain, Rahat Aayaz
+    venue: ICCESD 2024
+
+  - title: "ML Techniques for Predicting Fiber-Infused SCC Performance with SHAP & PDP"
+    authors: Md Al Toufiq Billah, Ayan Saha, Rahat Aayaz
+    venue: ICACE 2024
+
+  - title: "Detecting Plastic Waste in Buriganga River using UAV and Deep Learning"
+    authors: Aanika Roshni, Rahat Aayaz
+    venue: WasteSafe 2025 (Under Review)
+
+# Languages
+languages:
+  - name: English
+    percent: 95
+  - name: Bangla
+    percent: 100
+
+# Custom Summary (optional front page intro)
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am Rahat Aayaz, a structural engineer and researcher passionate about sustainable materials and data-driven engineering solutions. My research focuses on the intersection of materials science and artificial intelligence — from graphene-enhanced concrete to predictive modeling using machine learning.
