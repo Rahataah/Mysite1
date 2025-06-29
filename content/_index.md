@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Résumé
-        url: uploads/resume.pdf
+        url: https://syjds-my.sharepoint.com/:w:/g/personal/rahataayaz_syjds_onmicrosoft_com/EXEIKg_vpz9KiuAuPZ4Vv6cBk-T_bBO9ZR1gQ-_ycqSY_w?e=tWohO6
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
